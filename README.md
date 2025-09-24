@@ -1,3 +1,5 @@
+<img width="1351" height="637" alt="image" src="https://github.com/user-attachments/assets/cce04528-2595-457e-ac0d-a914ae686eaa" />
+
 Pastel Society of Pakistan
 
 Pastel Society of Pakistan (PSP) Website is a modern, responsive, and visually appealing front-end platform designed to showcase the society’s artists, exhibitions, and events. Built with a focus on simplicity, elegance, and user experience, this website allows visitors to explore pastel artworks, learn about the society, and connect with artists.
